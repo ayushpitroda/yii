@@ -1,0 +1,4 @@
+yii
+===
+
+with default structure
